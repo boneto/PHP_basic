@@ -1,0 +1,21 @@
+[submodule "my_repo"]
+	path = my_repo
+	url = https://boneto@bitbucket.org/boneto/my_repo.git
+[submodule "removeLetters"]
+	path = removeLetters
+	url = https://boneto@bitbucket.org/boneto/removeletters.git
+[submodule "login"]
+	path = login
+	url = https://boneto@bitbucket.org/boneto/login.git
+[submodule "loginClasses"]
+	path = loginClasses
+	url = https://boneto@bitbucket.org/boneto/loginclasses.git
+[submodule "httpClient"]
+	path = httpClient
+	url = https://boneto@bitbucket.org/boneto/httpclient.git
+[submodule "LinkScraper"]
+	path = LinkScraper
+	url = https://boneto@bitbucket.org/boneto/linkscraper.git
+[submodule "jsonConvert"]
+	path = jsonConvert
+	url = https://boneto@bitbucket.org/boneto/jsonconvert.git
